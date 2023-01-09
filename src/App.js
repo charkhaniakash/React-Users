@@ -23,9 +23,7 @@ function App(props) {
         <Navbar />
 
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
-        </Switch>
+          <Route exact pa
       </div>
     </Router>
   );
